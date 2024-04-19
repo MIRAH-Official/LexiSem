@@ -12,7 +12,6 @@ This is the PyTorch implementation of the paper:
 
 
 ## Dependency
-Run the command
 ```console
 pip install -r requirements.txt
 ```
