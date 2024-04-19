@@ -5,13 +5,6 @@ This is the PyTorch implementation of the paper:
 [**Summarization**](https://).
 
 
-
-## Citation
-If you use any source codes or datasets included in this toolkit in your work, please cite the following paper. The bibtex is listed below:
-```bibtex
-
-```
-
 ## Abstract
 
 
