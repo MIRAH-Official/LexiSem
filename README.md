@@ -25,5 +25,3 @@ Obtain the original CNN dataset at [**this link**](https://github.com/abisee/cnn
 
 CNN dataset has been preprocessed by using the model "SegmenT5-large". This setup encompasses.......
 
-## Training & Testing
-
