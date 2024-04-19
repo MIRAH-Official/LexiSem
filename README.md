@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Dataset
 Obtain the original CNN dataset at [**this link**](https://github.com/abisee/cnn-dailymail).
 
-## Step1: 
+## Step1: Segmentation 
 
 CNN dataset has been preprocessed by using the model "SegmenT5-large". This setup encompasses.......
 
