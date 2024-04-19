@@ -8,7 +8,7 @@ This is the PyTorch implementation of the paper:
 ## Abstract
 
 
-## Architecture:
+## Architecture
 
 
 ## Dependency
