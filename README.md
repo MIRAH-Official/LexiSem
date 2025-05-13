@@ -1,8 +1,9 @@
-## Summarization Project
+## LexiSem
  
 This is the PyTorch implementation of the paper:
 
-[**Summarization**](https://).
+
+[**LexiSem**](https://).
 
 
 ## Abstract
