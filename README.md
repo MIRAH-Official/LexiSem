@@ -1,6 +1,6 @@
 ## LexiSem
  
-This is the PyTorch implementation of the paper:
+This is the implementation of the paper:
 
 
 [**LexiSem**](https://).
